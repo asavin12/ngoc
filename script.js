@@ -154,7 +154,7 @@ window.onload = function() {
 // --- Thông tin cấu hình ---
 const GITHUB_OWNER = "tranduchai1";
 const GITHUB_REPO = "tuvung";
-const GITHUB_PATH = "diary.json";
+const GITHUB_PATH = "diary2.json";
 const API_URL = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${GITHUB_PATH}`;
 const SECRET_KEY = 'mysecretkey';
 
